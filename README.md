@@ -45,11 +45,12 @@
 - 🖥️ [**Terminal Text Editor**](https://github.com/HarmanB1/Editor)  
   A modern terminal-based text editor built in **C++ with ncurses**, featuring mouse support, autosave, word wrap, and theme customization.
 
-- 🌐 [**Personal Portfolio**](https://harmanb1.github.io)  
+- 🌐 [**Personal Portfolio**](https://github.com/HarmanB1/HarmanB1.github.io)  
   A clean, responsive **React portfolio site** with rotating project cards and smooth UI/UX design.
 
-- 💪 [**Workout Recommendation App**](https://www.gitfit.works/)  
+- 💪 [**Workout Recommendation App**](https://github.com/CMPT-276-SPRING-2025/final-project-17-sunsets)  
   A full-stack **React + API integration** app providing real-time workout & clothing suggestions using **OpenWeatherMap** and **Wger APIs**.
+
 
 
 ---
