@@ -56,15 +56,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarmanB1&theme=tokyonight" height="160" />
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarmanB1&theme=react-dark&hide_border=true)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanB1&layout=compact&theme=tokyonight&hide=makefile,cmake" height="160" />
 </div>
 
 
 ---
 
-### 🎮 Fun Touch
+### 🎮 Github Contributions
 
 <div align="center">
   <p align="center">
