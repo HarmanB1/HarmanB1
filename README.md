@@ -54,10 +54,13 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarmanB1&theme=react-dark&hide_border=true)
 
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarmanB1&theme=tokyonight)
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanB1&layout=compact&theme=tokyonight&hide=makefile,cmake" height="170" />
 </div>
 
 
