@@ -68,7 +68,9 @@
 
 ### 🎮 Github Contributions
 
-![GitHub Contributions](https://ghchart.rshah.org/HarmanB1)
+<p align="center">
+  ![GitHub Contributions](https://ghchart.rshah.org/HarmanB1?bg_color=0d1117&color=58a6ff&line=ffffff&point=ff7b72)
+</p>
 
 
 
