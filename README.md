@@ -68,8 +68,9 @@
 
 ### 🎮 Github Contributions
 
+
 <p align="center">
-  ![GitHub Contributions](https://ghchart.rshah.org/HarmanB1?bg_color=0d1117&color=58a6ff&line=ffffff&point=ff7b72)
+  <img src="https://ghchart.rshah.org/HarmanB1" alt="HarmanB1's GitHub Contributions" width="800" height="200">
 </p>
 
 
