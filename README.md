@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋 I'm Harman Bhogal</h1>
+<h1 align="center">Hey, I'm Harman Bhogal</h1>
 
 <p align="center">
-  🚀 Computing Science @ SFU · Passionate about building tools, web apps, and cool projects  
+  Computing Science @ SFU · Passionate about building tools, web apps, and cool projects  
 </p>
 
 ---
@@ -42,13 +42,13 @@
 
 ### 🌟 Featured Projects
 
-- 🖥️ [**Terminal Text Editor**](https://github.com/HarmanB1/Editor)  
+- [**Terminal Text Editor**](https://github.com/HarmanB1/Editor)  
   A modern terminal-based text editor built in **C++ with ncurses**, featuring mouse support, autosave, word wrap, and theme customization.
 
-- 🌐 [**Personal Portfolio**](https://github.com/HarmanB1/HarmanB1.github.io)  
+- [**Personal Portfolio**](https://github.com/HarmanB1/HarmanB1.github.io)  
   A clean, responsive **React portfolio site** with rotating project cards and smooth UI/UX design.
 
-- 💪 [**Workout Recommendation App**](https://github.com/CMPT-276-SPRING-2025/final-project-17-sunsets)  
+- [**Workout Recommendation App**](https://github.com/CMPT-276-SPRING-2025/final-project-17-sunsets)  
   A full-stack **React + API integration** app providing real-time workout & clothing suggestions using **OpenWeatherMap** and **Wger APIs**.
 
 
@@ -68,7 +68,7 @@
 
 ---
 
-### 🎮 Github Contributions
+### Github Contributions
 
 
 <p align="center">
