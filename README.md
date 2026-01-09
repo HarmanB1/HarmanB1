@@ -42,6 +42,10 @@
 
 ### 🌟 Featured Projects
 
+
+- [**Student course builder**](https://github.com/StormHacks-2025/ProjectCourseBuilder)  
+  A full-stack **React + Express.js + Supabase backend** app providing the ability for students to generate schedules with AI help, read student transcripts for personal advice, and customize their schedules. **SFU courses API** and **Deepseek APIs** were used.
+
 - [**Terminal Text Editor**](https://github.com/HarmanB1/Editor)  
   A modern terminal-based text editor built in **C++ with ncurses**, featuring mouse support, autosave, word wrap, and theme customization.
 
@@ -49,8 +53,7 @@
   A clean, responsive **React portfolio site** with rotating project cards and smooth UI/UX design.
 
 - [**Workout Recommendation App**](https://github.com/CMPT-276-SPRING-2025/final-project-17-sunsets)  
-  A full-stack **React + API integration** app providing real-time workout & clothing suggestions using **OpenWeatherMap** and **Wger APIs**.
-
+  A full-stack **React + API integration** app providing real-time workout & clothing suggestions using **OpenWeatherMap** and **Wger APIs**. Built according to Agile Scrum principles, using techniques such as stand ups. 
 
 
 ---
