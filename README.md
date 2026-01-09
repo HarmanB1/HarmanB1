@@ -43,7 +43,7 @@
 ### 🌟 Featured Projects
 
 
-- [**Student course builder**](https://github.com/StormHacks-2025/ProjectCourseBuilder)  
+- [**Student course builder**](https://github.com/StormHacks-2025/ProjectCourseBuilder)  (Storm Hacks winner for best use of SFU courses API)
   A full-stack **React + Express.js + Supabase backend** app providing the ability for students to generate schedules with AI help, read student transcripts for personal advice, and customize their schedules. **SFU courses API** and **Deepseek APIs** were used.
 
 - [**Terminal Text Editor**](https://github.com/HarmanB1/Editor)  
